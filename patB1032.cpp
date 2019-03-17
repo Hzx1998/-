@@ -1,3 +1,4 @@
+//挖掘技术哪家强
 #include<cstdio>
 int main(){
     int n;

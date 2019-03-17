@@ -1,4 +1,4 @@
-
+/*3n+1猜想*/
 #include <cstdio>
 int main()
 {
